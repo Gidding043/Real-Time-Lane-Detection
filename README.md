@@ -1,6 +1,6 @@
 # Real-Time-Lane-Detection
 
-## This is made by DGIROID team project.
+## This is made by DGroid team project.
 
 It detects the lane using your webcam.
   
